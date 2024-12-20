@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import date
 
 # Path to the database
-database = "mealp/database.csv"
+database = "database.csv"
 
 def take_input():
     datei = input("Enter date (YYYY-MM-DD): ")
